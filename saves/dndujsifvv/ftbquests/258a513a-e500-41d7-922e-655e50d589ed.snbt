@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "258a513ae50041d7922e655e50d589ed"
+	name: "poellebob"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: true
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -1,0 +1,236 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = img/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-centered
+  x = 42
+  action = movebutton
+  y = -11
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  width = 198
+  action = resizebutton
+  height = 10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -209
+  action = movebutton
+  y = 12
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = -5
+  action = movebutton
+  y = 61
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-centered
+  x = -5
+  action = movebutton
+  y = -12
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -209
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = -209
+  action = movebutton
+  y = 83
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 223
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -5
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -209
+  action = movebutton
+  y = -12
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -209
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = -107
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = mid-centered
+  x = -5
+  action = movebutton
+  y = 12
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 106
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 8f352d4d-455d-4def-a3f6-cde6cbbb08ec1729598661410
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 128
+  action = deep_customization_element:title_screen_branding
+  actionid = eb80666a-9a02-431d-a3be-d7f0cbf261d21729598661420
+  y = 211
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 251
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 2e83fecd-507c-447b-8307-2809bd5ef10c1729598661421
+  y = 243
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = afa590e5-9960-46df-9eed-7b5ab53f3b041729598661421
+  y = 165
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 7381c0fc-d720-4d0a-98ed-fba5e98563421729598661421
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 6c31ae82-4341-4a0c-b9a7-6b5505092ad91729598661421
+  y = 0
+  height = 30
+}
+
+customization {
+  slim = false
+  auto_skin = true
+  scale = 50
+  showname = false
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/953cac8b779fe41383e675ee2b86071a71658f2180f56fbce8aa315ea70e2ed6
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = e96639cf-acc5-4c26-bc8f-6c31c1c28a761729599956683
+  playername = Steve
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = true
+  is_baby = false
+  height = 90
+  orientation = top-left
+  copy_client_player = false
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/60a5bd016b3c9a1b9272e4929e30827a67be4ebb219017adbbc4a4d22ebd5b1
+  crouching = false
+  x = 367
+  width = 30
+  parrot_left_shoulder = false
+  y = 165
+  parrot = false
+}
+
+customization {
+  path = img/create.png
+  orientation = top-centered
+  x = -123
+  width = 247
+  action = addtexture
+  actionid = 9fe0c9a8-7036-434d-b9bd-449095e96d131729665744786
+  y = 19
+  height = 75
+}
+
