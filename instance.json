@@ -2,10 +2,10 @@
   "uuid": "b32e4bf2-a786-4ca3-8540-123d4e065456",
   "launcher": {
     "name": "Create: Age of Automation",
-    "pack": "Create: Aoutomated",
+    "pack": "Create: Age of Automation",
     "packId": 0,
     "externalPackId": 0,
-    "version": "v1.6.2",
+    "version": "v1",
     "enableCurseForgeIntegration": true,
     "enableEditingMods": true,
     "loaderVersion": {
@@ -24,8 +24,8 @@
     "modrinthManifest": {
       "formatVersion": 1,
       "game": "minecraft",
-      "versionId": "v1.6.2",
-      "name": "Create: Aoutomated",
+      "versionId": "v1",
+      "name": "Create: Age of Automation",
       "summary": "A complex, technology-based modpack revolving around Create and Mekanism.",
       "files": [
         {
@@ -29587,8 +29587,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 1729680361329,
-    "numPlays": 4,
+    "lastPlayed": 1729712080787,
+    "numPlays": 8,
     "lastExportName": "Create: Automated",
     "lastExportVersion": "v1",
     "lastExportAuthor": "poellebob",

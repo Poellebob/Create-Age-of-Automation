@@ -1,12 +1,17 @@
-[12:46:37] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
-[12:46:37] [INIT] Loaded plugins:
-[12:46:37] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[12:46:37] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
-[12:46:37] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
-[12:46:37] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
-[12:46:37] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
-[12:46:37] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
-[12:46:37] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[12:46:39] [INFO] startup_scripts:example.js:5: Hello, World! (Loaded startup scripts)
-[12:46:39] [INFO] Loaded script startup_scripts:example.js in 0.335 s
-[12:46:39] [INFO] Loaded 1/1 KubeJS startup scripts in 1.68 s
+[21:34:50] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
+[21:34:50] [INIT] Loaded plugins:
+[21:34:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:34:50] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[21:34:50] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[21:34:50] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[21:34:50] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
+[21:34:50] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[21:34:50] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[21:34:51] [INFO] startup_scripts:example.js:5: Hello, World! (Loaded startup scripts)
+[21:34:51] [INFO] Loaded script startup_scripts:example.js in 0.026 s
+[21:34:51] [INFO] startup_scripts:script.js:3: Just think of Monika from now on. Just Monika. Just Monika. Just Monika.
+[21:34:51] [INFO] startup_scripts:script.js:94: Loaded Java class 'dev.architectury.platform.forge.EventBuses'
+[21:34:51] [INFO] startup_scripts:script.js:95: Loaded Java class 'mekanism.common.registration.impl.GasDeferredRegister'
+[21:34:51] [INFO] startup_scripts:script.js:96: Loaded Java class 'mekanism.common.registration.impl.SlurryDeferredRegister'
+[21:34:51] [INFO] Loaded script startup_scripts:script.js in 0.017 s
+[21:34:51] [INFO] Loaded 2/2 KubeJS startup scripts in 0.493 s

@@ -1,15 +1,42 @@
-[12:48:40] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
-[12:48:40] [INIT] Loaded plugins:
-[12:48:40] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[12:48:40] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
-[12:48:40] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
-[12:48:40] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
-[12:48:40] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
-[12:48:40] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
-[12:48:40] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[12:48:41] [INFO] server_scripts:example.js:5: Hello, World! (Loaded server scripts)
-[12:48:41] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[12:48:41] [INFO] Loaded 1/1 KubeJS server scripts in 0.021 s
-[12:48:41] [INFO] Scripts loaded
-[12:48:41] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
-[12:48:41] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[21:35:08] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
+[21:35:08] [INIT] Loaded plugins:
+[21:35:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:35:08] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[21:35:08] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[21:35:08] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[21:35:08] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
+[21:35:08] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[21:35:08] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[21:35:08] [INFO] Loaded script server_scripts:extra_integration.js in 0.001 s
+[21:35:08] [INFO] Loaded script server_scripts:sequenced_assemblies.js in 0.003 s
+[21:35:08] [INFO] server_scripts:added_recipes.js:3: Just Monika.
+[21:35:08] [INFO] Loaded script server_scripts:added_recipes.js in 0.015 s
+[21:35:08] [INFO] server_scripts:example.js:5: Hello, World! (Loaded server scripts)
+[21:35:08] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[21:35:08] [INFO] Loaded script server_scripts:scripts.js in 0.001 s
+[21:35:08] [INFO] Loaded script server_scripts:tags.js in 0.001 s
+[21:35:08] [INFO] Loaded script server_scripts:removed_recipes.js in 0.005 s
+[21:35:08] [INFO] Loaded 7/7 KubeJS server scripts in 0.031 s
+[21:35:08] [INFO] Scripts loaded
+[21:35:08] [INFO] Initializing recipe event...
+[21:35:09] [INFO] [minecraft:fluid] Found 59 tags, added 1 objects, removed 8 objects
+[21:35:09] [INFO] [minecraft:item] Found 1289 tags, added 3 objects, removed 1 objects
+[21:35:09] [INFO] Processing recipes...
+[21:35:09] [WARN] Failed to parse recipe 'create:crushing/compat/ae2/deepslate_quartz_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid fluid ingredient: {"item":"ae2:deepslate_quartz_ore"}
+[21:35:09] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_veridium[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:35:09] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_veridium_recycle[thermal:pulverizer_recycle]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:35:09] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_ochrum_recycle[thermal:pulverizer_recycle]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:35:09] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_zinc_ore[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:35:09] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_asurine_recycle[thermal:pulverizer_recycle]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:35:09] [WARN] Failed to parse recipe 'create:crushing/compat/ae2/quartz_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid fluid ingredient: {"item":"ae2:quartz_ore"}
+[21:35:09] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_crimsite_recycle[thermal:pulverizer_recycle]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:35:09] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_asurine[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:35:09] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_ochrum[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:35:09] [WARN] Failed to parse recipe 'thermal:compat/create/pulverizer_create_crimsite[thermal:pulverizer]'! Falling back to vanilla: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:35:09] [WARN] Failed to parse recipe 'create:mixing/mud_by_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid fluid ingredient: {"type":"create:block_tag_ingredient","tag":"minecraft:convertable_to_mud"}
+[21:35:09] [INFO] Found 9066 recipes in 148.4 ms
+[21:35:09] [INFO] Posted recipe events in 128.6 ms
+[21:35:09] [WARN] Duplicate recipe for id create:kjs_aze6v8tvfghefxb4vhvatm9l7! Using last one encountered.
+[21:35:09] [WARN] You might want to check your scripts for errors.
+[21:35:09] [INFO] Added 215 recipes, removed 326 recipes, modified 1 recipes, with 0 failed recipes in 42.51 ms
+[21:35:10] [INFO] Collecting Custom Machine upgrades from JS scripts.

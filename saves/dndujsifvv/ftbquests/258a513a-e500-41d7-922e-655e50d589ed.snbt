@@ -2,14 +2,24 @@
 	version: 1
 	uuid: "258a513ae50041d7922e655e50d589ed"
 	name: "poellebob"
-	can_edit: false
+	can_edit: true
 	lock: false
 	auto_pin: false
 	chapter_pinned: true
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		1B808D7B31BA557B: 1
+	}
+	started: {
+		1B808D7B31BA557B: 1729711297058L
+		7862DEB6FF5387F8: 1729711297058L
+		0000000000000001: 1729711297058L
+		0209A0EAF8693567: 1729711297058L
+	}
+	completed: {
+		1B808D7B31BA557B: 1729711297059L
+		7862DEB6FF5387F8: 1729711297059L
+	}
 	claimed_rewards: { }
 	pinned_quests: [ ]
 }
