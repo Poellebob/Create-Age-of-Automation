@@ -1,15 +1,15 @@
-[21:34:51] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
-[21:34:51] [INIT] Loaded plugins:
-[21:34:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[21:34:51] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
-[21:34:51] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
-[21:34:51] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
-[21:34:51] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
-[21:34:51] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
-[21:34:51] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[21:34:51] [INFO] Loaded script client_scripts:extra_integration.js in 0.001 s
-[21:34:51] [INFO] client_scripts:example.js:5: Hello, World! (Loaded client scripts)
-[21:34:51] [INFO] Loaded script client_scripts:example.js in 0.0 s
-[21:34:51] [INFO] client_scripts:script.js:3: Hello, World! (You will see this line every time client resources reload)
-[21:34:51] [INFO] Loaded script client_scripts:script.js in 0.003 s
-[21:34:51] [INFO] Loaded 3/3 KubeJS client scripts in 0.014 s
+[17:29:48] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
+[17:29:48] [INIT] Loaded plugins:
+[17:29:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:29:48] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[17:29:48] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[17:29:48] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[17:29:48] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
+[17:29:48] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[17:29:48] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[17:29:48] [INFO] Loaded script client_scripts:extra_integration.js in 0.002 s
+[17:29:48] [INFO] client_scripts:example.js:5: Hello, World! (Loaded client scripts)
+[17:29:48] [INFO] Loaded script client_scripts:example.js in 0.0 s
+[17:29:48] [INFO] client_scripts:script.js:3: Hello, World! (You will see this line every time client resources reload)
+[17:29:48] [INFO] Loaded script client_scripts:script.js in 0.003 s
+[17:29:48] [INFO] Loaded 3/3 KubeJS client scripts in 0.015 s

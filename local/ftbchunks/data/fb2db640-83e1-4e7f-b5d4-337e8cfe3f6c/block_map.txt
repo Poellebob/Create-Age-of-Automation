@@ -27,6 +27,7 @@
 #DE9468 minecraft:magma_block
 #CADBB6 thermal:nickel_ore
 #AD9EB5 minecraft:oak_leaves
+#BBA6D1 minecraft:oak_log
 #4A5E4E minecraft:obsidian
 #5C837A create:ochrum
 #B29458 mekanism:osmium_ore
