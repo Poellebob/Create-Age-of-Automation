@@ -3,3 +3,11 @@ saves/
 logs/
 local/
 *.log
+servers.dat
+servers.dat_old
+usercache.json
+usernamecache.json
+logs/
+localconfigs/
+scematics/
+disabeldmods/

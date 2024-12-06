@@ -1,17 +1,17 @@
-[17:29:47] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
-[17:29:47] [INIT] Loaded plugins:
-[17:29:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[17:29:47] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
-[17:29:47] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
-[17:29:47] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
-[17:29:47] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
-[17:29:47] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
-[17:29:47] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[17:29:48] [INFO] startup_scripts:example.js:5: Hello, World! (Loaded startup scripts)
-[17:29:48] [INFO] Loaded script startup_scripts:example.js in 0.058 s
-[17:29:48] [INFO] startup_scripts:script.js:3: Just think of Monika from now on. Just Monika. Just Monika. Just Monika.
-[17:29:48] [INFO] startup_scripts:script.js:94: Loaded Java class 'dev.architectury.platform.forge.EventBuses'
-[17:29:48] [INFO] startup_scripts:script.js:95: Loaded Java class 'mekanism.common.registration.impl.GasDeferredRegister'
-[17:29:48] [INFO] startup_scripts:script.js:96: Loaded Java class 'mekanism.common.registration.impl.SlurryDeferredRegister'
-[17:29:48] [INFO] Loaded script startup_scripts:script.js in 0.028 s
-[17:29:48] [INFO] Loaded 2/2 KubeJS startup scripts in 0.646 s
+[09:55:57] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
+[09:55:57] [INIT] Loaded plugins:
+[09:55:57] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[09:55:57] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[09:55:57] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[09:55:57] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[09:55:57] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
+[09:55:57] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[09:55:57] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[09:55:58] [INFO] startup_scripts:script.js:3: Just think of Monika from now on. Just Monika. Just Monika. Just Monika.
+[09:55:58] [INFO] startup_scripts:script.js:94: Loaded Java class 'dev.architectury.platform.forge.EventBuses'
+[09:55:58] [INFO] startup_scripts:script.js:95: Loaded Java class 'mekanism.common.registration.impl.GasDeferredRegister'
+[09:55:58] [INFO] startup_scripts:script.js:96: Loaded Java class 'mekanism.common.registration.impl.SlurryDeferredRegister'
+[09:55:58] [INFO] Loaded script startup_scripts:script.js in 0.281 s
+[09:55:58] [INFO] startup_scripts:example.js:5: Hello, World! (Loaded startup scripts)
+[09:55:58] [INFO] Loaded script startup_scripts:example.js in 0.001 s
+[09:55:58] [INFO] Loaded 2/2 KubeJS startup scripts in 1.392 s

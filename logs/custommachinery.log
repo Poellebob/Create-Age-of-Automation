@@ -1,15 +1,10 @@
-[17:30:11.196][INFO]: Parsing all .json files in machines folder.
-[17:30:11.198][INFO]: Parsing all .json files in upgrades folder.
-[17:30:11.204][INFO]: Finished, 2 .json files successfully parsed in machines folder.
-[17:30:11.205][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
-[17:30:12.066][INFO]: Reading Custom Machinery Machines...
-[17:30:12.066][INFO]: Parsing machine json: custom_machines:ground_sifter in datapack: kubejs
-[17:30:12.076][INFO]: Successfully parsed machine json: custom_machines:ground_sifter
-[17:30:12.076][INFO]: Parsing machine json: custom_machines:microgravity_centrifuge in datapack: kubejs
-[17:30:12.077][INFO]: Successfully parsed machine json: custom_machines:microgravity_centrifuge
-[17:30:12.077][INFO]: Finished creating custom machines.
-[17:30:12.077][INFO]: Reading Custom Machinery Upgrades json
-[17:30:12.077][INFO]: No machine upgrade json found.
-[17:30:12.077][INFO]: Collecting machine upgrades with kubeJS.
-[17:30:12.078][INFO]: No machine upgrades found with kubejs
-[17:30:12.078][INFO]: Finished creating custom machine upgrades.
+[09:56:41.020][INFO]: Receiving recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 from server.
+[09:56:41.037][INFO]: Sucessfully received recipe: kubejs:custom_machine/custom_machines/ground_sifter/0 from server.
+[09:56:41.142][INFO]: Receiving recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 from server.
+[09:56:41.143][INFO]: Sucessfully received recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/1 from server.
+[09:56:41.166][INFO]: Receiving recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 from server.
+[09:56:41.166][INFO]: Sucessfully received recipe: kubejs:custom_machine/custom_machines/microgravity_centrifuge/0 from server.
+[09:56:41.267][INFO]: Receiving recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 from server.
+[09:56:41.268][INFO]: Sucessfully received recipe: kubejs:custom_machine/custom_machines/ground_sifter/2 from server.
+[09:56:41.280][INFO]: Receiving recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 from server.
+[09:56:41.281][INFO]: Sucessfully received recipe: kubejs:custom_machine/custom_machines/ground_sifter/1 from server.

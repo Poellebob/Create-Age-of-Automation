@@ -29582,13 +29582,155 @@
           "fileFingerprint": 1058745848,
           "modId": 422301
         }
+      },
+      {
+        "name": "GraveStone Mod",
+        "version": "[FORGE][1.19.2] Gravestone Mod 1.19.2-1.0.24",
+        "optional": true,
+        "file": "gravestone-forge-1.19.2-1.0.24.jar",
+        "type": "mods",
+        "description": "Places a gravestone with your inventory items inside when you die",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 238551,
+        "curseForgeFileId": 5794077,
+        "curseForgeProject": {
+          "id": 238551,
+          "name": "GraveStone Mod",
+          "authors": [
+            {
+              "id": 20569971,
+              "name": "henkelmax",
+              "url": "https://www.curseforge.com/members/henkelmax"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Places a gravestone with your inventory items inside when you die",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "gravestone-mod",
+          "isFeatured": false,
+          "dateModified": "2024-12-03T17:51:46.89Z",
+          "dateCreated": "2015-12-05T11:26:31.953Z",
+          "dateReleased": "2024-12-03T17:46:18.343Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/henkelmax/gravestone/issues",
+            "sourceUrl": "https://github.com/henkelmax/gravestone"
+          },
+          "logo": {
+            "id": 276919,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/276/919/256/256/637267971739647681.png",
+            "title": "637267971739647681.png",
+            "url": "https://media.forgecdn.net/avatars/276/919/637267971739647681.png",
+            "modId": 238551
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5837909
+        },
+        "curseForgeFile": {
+          "id": 5794077,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FORGE][1.19.2] Gravestone Mod 1.19.2-1.0.24",
+          "fileName": "gravestone-forge-1.19.2-1.0.24.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-10-08T09:26:50.623Z",
+          "fileLength": 314755,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 324717,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2374732863,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1919335451,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 787016309,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4001995255,
+              "name": "de"
+            },
+            {
+              "fingerprint": 2433154021,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2080711050,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "de3f1135c252cac322c8e115628044e4b30270db",
+              "algo": 1
+            },
+            {
+              "value": "ded78e981e67cff3e4371ad17bda288f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 4102693044,
+          "modId": 238551
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 1729783777308,
-    "numPlays": 10,
+    "lastPlayed": 1733475328039,
+    "numPlays": 12,
     "lastExportName": "Create: Age of Automation",
     "lastExportVersion": "v1",
     "lastExportAuthor": "poellebob",

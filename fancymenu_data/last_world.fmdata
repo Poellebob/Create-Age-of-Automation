@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = /home/viggokh/.local/share/atlauncher/instances/Create-Age-of-Automation/saves/dndujsifvv
+  is_server = true
+  world = 85.27.195.162:25565
 }
 
